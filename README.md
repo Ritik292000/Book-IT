@@ -20,8 +20,7 @@ Node.js and NPM: Ensure that Node.js and NPM are installed on your system.
 
 Golang: Ensure that Golang with version >=19 is installed on your system.
 
-Running the Project
-Follow the below steps to run the project:
+Running the Project, follow the below steps to run the project:
 
 Run the deploy.sh script to deploy the chaincode and start the Fabric network.
 
